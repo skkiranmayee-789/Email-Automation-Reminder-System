@@ -1,0 +1,10 @@
+Name,Email,Subject,Status,Timestamp
+John,john@example.com,Meeting Reminder,Sent,2026-05-06 13:02:52.108826
+John,john@example.com,Assignment Reminder,Sent,2026-05-06 13:02:52.108826
+John,john@example.com,Payment Reminder,Sent,2026-05-06 13:02:52.108826
+Alex,alex@example.com,Meeting Reminder,Sent,2026-05-06 13:02:52.108826
+Alex,alex@example.com,Assignment Reminder,Sent,2026-05-06 13:02:52.108826
+Alex,alex@example.com,Payment Reminder,Sent,2026-05-06 13:02:52.108826
+David,david@example.com,Meeting Reminder,Sent,2026-05-06 13:02:52.125575
+David,david@example.com,Assignment Reminder,Sent,2026-05-06 13:02:52.125896
+David,david@example.com,Payment Reminder,Sent,2026-05-06 13:02:52.127982

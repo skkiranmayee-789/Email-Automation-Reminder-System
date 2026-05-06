@@ -1,0 +1,6 @@
+Hello {name},
+
+{message}
+
+Thank you,
+Automation Team
