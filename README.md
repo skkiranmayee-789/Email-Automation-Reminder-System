@@ -102,7 +102,7 @@ Email-Automation-Reminder-System/
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/skkiranmayee-789/Email-Automation-Reminder-System
 ```
 
 ---
